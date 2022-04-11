@@ -54,7 +54,7 @@ input{
     border: 1px solid rgb(207, 207, 207);
 }
 nav{
-    position: fixed;
+    position: sticky;
     margin-left: 2%;
     flex-direction: row;
     justify-content: space-between;
