@@ -78,8 +78,7 @@ ul{
     width: 90px;
     height: 50px;
 }
-.menu-lines{
-    
+.menu-lines{    
     width: 30px;
     height: 30px;    
 }
@@ -89,7 +88,6 @@ header h1{
     text-align: start;
     color: #2C303F; 
 }
-
 header input{
     
    height:  30px;
@@ -127,18 +125,14 @@ main img{
     border: 1px solid;
     border-color:#d6d6d6 #ececec #ececec #ececec;
 }
-.list-names-companies{
-    
+.list-names-companies{    
     display: flex;
-    flex-direction: row;
-  
+    flex-direction: row;  
 }
 .list-names-companies div{
-    height: 700px;
-   
+    height: 700px;   
 }
-footer div{
-   
+footer div{   
     display: flex;
     flex-direction: column;
     text-align: center;
