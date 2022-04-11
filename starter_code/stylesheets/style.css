@@ -55,7 +55,8 @@ input{
 }
 nav{
     position: sticky;
-    margin-left: 2%;
+    top: 0px;
+   
     flex-direction: row;
     justify-content: space-between;
     border:1px solid;
